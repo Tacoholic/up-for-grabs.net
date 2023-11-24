@@ -90,7 +90,7 @@ start creating the pull request:
 
 <img width="1015" src="https://user-images.githubusercontent.com/359239/67146645-8fd07c00-f263-11e9-8bcb-bf9b2640bb53.png">
 
-Fill out the Pull request template to add anything else, and then click
+Fill out the pull request template to add anything else, and then click
 "Create pull request" to submit it for review:
 
 <img width="1027" src="https://user-images.githubusercontent.com/359239/67146644-8fd07c00-f263-11e9-9615-b2e6665d3018.png">
